@@ -2,12 +2,15 @@
 Clinical Trial Data Analysis in Databricks with DataFrame, RDD, and Spark SQL Approaches
 
 You will be using clinical trial datasets in this work and combining the information with a list of pharmaceutical companies. You will be given the answers to the questions, for a basic implementation, for two historical datasets, so you can verify your basic solution to the problems.
+
 2.1.1.
 Datasets:
 The data necessary for this assignment will be zipped CSV files (not included in repository as the size is larger than 25MB). The .csv files have a header describing the files’ contents. They are:
+
 1.Clinicaltrial_2023.csv:
 Every row in the dataset corresponds to an individual clinical trial and is identified by different variables. It's important to note that the first column contains a mixture of various variables separated by a delimiter, and the date columns exhibit various formats. Please consider these issues and ensure that the dataset is appropriately prepared before initiating any analysis.
 (Source: ClinicalTrials.gov)
+
 2.pharma.csv:
 The file contains a small number of a publicly available list of pharmaceutical violations. For the purposes of this work, we are interested in the second column, Parent Company, which contains the name of the pharmaceutical company in question.
 (Source: https://violationtracker.goodjobsfirst.org/industry/pharmaceuticals)
