@@ -44,7 +44,7 @@ For the visualisation of the results, you are free to use any tool that fulfils 
 
 2.1.3.Extra features to be implemented 
 
-For this task, an implementation of the above which is correct, fully documented and clearly explained can only receive a maximum mark of 69% for this component. Higher scoring submissions will need to implement additional features, such as (but not limited to):
+For this task,include additional features, such as (but not limited to):
 
 Unzipping the data inside the Databricks system (You can unzip the file on your computer before uploading it to Databricks. However, to earn extra marks, you should be able to successfully unzip it within the Databricks environment. Additionally, your code should be reusable for us, meaning it needs to include proper cleanup procedures to remove any unnecessary files and folders from the filesystem. This ensures our ability to run your code without errors.).
 
